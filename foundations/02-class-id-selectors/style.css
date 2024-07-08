@@ -1,9 +1,16 @@
-.class1 {
-    color: black;
-    background-color: #fc034e;
-}
+
 
 #ID1 {
     color: #0335fc;
     font-size: xx-large;
+}
+
+.class1,
+.class2 { 
+    color: black;
+    background-color: #fc034e;
+}
+
+.class2 { 
+    font-size: larger;
 }
