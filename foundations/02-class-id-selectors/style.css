@@ -17,5 +17,8 @@
 }
 
 #ID2 { 
-
+    color: black;
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
