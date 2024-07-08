@@ -2,7 +2,7 @@
 
 #ID1 {
     color: #0335fc;
-    font-size: xx-large;
+    font-size: 36px;
 }
 
 .class1,
@@ -14,4 +14,8 @@
 
 .class2 { 
     font-size: larger;
+}
+
+#ID2 { 
+
 }
